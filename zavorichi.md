@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: about
-title: Про СНТ "Трубеж"
+permalink: zavorichi
+title: Станцiя Заворичi
 ---
 
 Опис <span id="a1">[\[1\]](#f1)</span>.
