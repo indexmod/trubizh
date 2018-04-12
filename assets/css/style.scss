@@ -1,17 +1,17 @@
---- 
---- 
+---
+---
 @import "jekyll-theme-minimal";
 
 
  .intro {
-	font-family: 'Georgia', serif;
+	font-family: 'Helvetica Neue', serif;
 	font-size: 24px;
 	font-weight: 900;
 	line-height: 1.3em;
 	list-style-type: none;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Georgia', serif;
+	font-family: 'Helvetica Neue', serif;
 	font-size: 39px;
 	font-weight: 900;
 	line-height: 1.2em;
@@ -63,10 +63,10 @@ del {
 	color: silver;
 }
 p {
-	font-family: 'Georgia', serif;
+	font-family: 'Helvetica Neue', serif;
 	font-size: 24px;
 	line-height: 1.6em;
-	font-weight: 510;
+	font-weight: 400;
 	color: black;
 }
 strong {
@@ -83,14 +83,14 @@ em {
 	font-weight: 900;
 }
 li {
-	font-family: 'Georgia', serif;
+	font-family: 'Helvetica Neue', serif;
 	font-size: 24px;
 	line-height: 1.6em;
 	font-weight: 900;
 	color: #454343;
 }
 ul {
-	font-family: 'Georgia', serif;
+	font-family: 'Helvetica Neue', serif;
 	font-size: 24px;
 	line-height: 1.6em;
 	font-weight: 900;
@@ -135,7 +135,7 @@ img {
 	height: auto;
 }
 footer {
-	font-family: 'Georgia', serif;
+	font-family: 'Helvetica Neue', serif;
 	font-weight: 900;
 	font-size: 24px;
 	line-height: 1.3em;

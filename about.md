@@ -6,7 +6,7 @@ title: Про СНТ "Трубеж"
 
 Опис <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+![](/encyclopedia/images/map.png)
 
 **Image**
 
