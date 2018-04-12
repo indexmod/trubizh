@@ -1,5 +1,5 @@
 ---
-title: Indexmod (github.io) encyclopedia
+title: СНТ «Трубеж»
 timezone: UTC
 collections:
   posts:
@@ -8,19 +8,19 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: Indexmod (github.io) encyclopedia — blockchain wiki with pretty syntax
+description: Це сайт СНТ «Трубеж» у селi Заворичи Київської області
 show_sidebar: false
 show_downloads: false
 show_title: false
 show_description: false
-google_analytics: 'UA-112478299-1'
+google_analytics: 'UA-'
 theme: jekyll-theme-minimal
 include: ['.htaccess']
 gems:
 
 prose:
-  rooturl: 'https://indexmod.github.io/encyclopedia/'
-  siteurl: 'https://indexmod.github.io/encyclopedia/'
+  rooturl: 'https://indexmod.github.io/trubezh/'
+  siteurl: 'https://indexmod.github.io/trubezh/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: '/images'
   ignore:
@@ -53,4 +53,3 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
-
