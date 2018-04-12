@@ -1,5 +1,5 @@
 ---
-title: СНТ «Трубеж»
+title: СТ «Трубеж»
 timezone: UTC
 collections:
   posts:
@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: Це сайт СНТ «Трубеж» у селi Заворичи Київської області
+description: Це сайт СТ «Трубеж» у селi Заворичи Київської області
 show_sidebar: false
 show_downloads: false
 show_title: false
