@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: about
-title: Про СНТ "Трубеж"
+permalink: pro-sadivnici-tovaristva
+title: Проект Закон України «Про садівничі товариства» (Проект)
 ---
 
 Про об'єднання
