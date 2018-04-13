@@ -4,12 +4,17 @@ permalink: contacts
 title: Контакти
 ---
 
-Андрій (адмiн сайту)
+![](/trubizh/images/pine.png)
+
+
+Андрій, дiзайнер та адмiн сайту
+
+deinichenko.a@gmail.com
 +38 (044) 547-02-07
 
-# Сайт
+# Про сайт
 
-www.trubizh.ga — тимчасова адреса сайту майбутнього садівничого товариства «Трубiж» (у 2018 оновлюється)
+www.trubizh.ga — тимчасова адреса сайту майбутнього садівничого товариства «Трубiж».
 
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
