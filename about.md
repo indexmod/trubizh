@@ -4,4 +4,4 @@ permalink: about
 title: Про товариство
 ---
 
-![](/images/pine.png)
+![](/images/zavorichi-station.jpg)

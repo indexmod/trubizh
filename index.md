@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](/trubizh/images/pine.png)
+![](/images/pine.png)
 
 **Вітаємо!**
 
