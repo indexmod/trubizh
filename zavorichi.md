@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: zavorichi
-title: Станцiя Завори-i
+title: Станцiя Заворичi
 ---
 
 # Заворичi — Дарниця
