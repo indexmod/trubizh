@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: about
-title: Про СНТ "Трубеж"
+title: Про СТ «Трубiж»
 ---
 
 Опис <span id="a1">[\[1\]](#f1)</span>.
