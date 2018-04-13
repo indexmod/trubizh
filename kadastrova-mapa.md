@@ -1,14 +1,14 @@
 ---
 layout: default
-permalink: containers
-title: Контейнери
+permalink: kadastrova-mapa
+title: Мапа сайту
 ---
 
 Опис <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+![](/encyclopedia/images/kadastrova-mapa.jpg)
 
-**Image**
+**Кадастрова мапа**
 
 *Фото: [Им'я](index) / [Ресурс](index)*
 

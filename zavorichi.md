@@ -21,8 +21,8 @@ title: Станцiя Заворичi
 
 # Дивись також
 
-+ [Назва](index)
-+ [Назва](index)
++ [Про садівничі товариства](pro-sadivnici-tovaristva)
++ [Про громадськi объеднання](pro-gromadski-obiednannya)
 
 # Сноски
 
