@@ -5,3 +5,5 @@ title: Про товариство
 ---
 
 ![](/images/zavorichi-station.jpg)
+
+**Станцiя Заворичi**

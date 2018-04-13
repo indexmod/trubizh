@@ -4,4 +4,4 @@ permalink: kadastrova-mapa
 title: Кадастрова мапа
 ---
 
-![](/images/kadastrova-mapa.jpg)
+![](/images/kadastrova-mapa.png)
