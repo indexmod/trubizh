@@ -36,12 +36,7 @@
 		</header>
 		<section>
 			<h1>{{page.title}}</h1>
-			<div>
-				<p><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/trubezh/{{page.permalink}}">Поділитися</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Редагувати</a></p>
-			</div>{{ content | toc }}
-			<div>
-				<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">Поділитися</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Редагувати</a></p>
-			</div>
+			<div>{{ content | toc }}</div>
 		</section>
 		<footer>
 			{% include footer.html %}
