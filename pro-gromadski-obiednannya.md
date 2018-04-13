@@ -2,7 +2,7 @@
 layout: default
 permalink: pro-gromadski-obiednannya
 title: Закон України
-Про громадські об'єднання
+про громадські об'єднання
 ---
 
 **Про громадські об'єднання**
