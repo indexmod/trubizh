@@ -1,5 +1,5 @@
 ---
-layout: cover
+layout: default
 prmalink: index
 title: Головна
 ---
