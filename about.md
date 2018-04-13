@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: about
-title: Про СТ «Трубiж»
+title: Про товариство
 ---
 
 ![](/images/pine.png)
