@@ -1,11 +1,9 @@
 ---
 layout: cover
-title: Index
+title: Головна
 ---
 
 <!--- Do not change the "index.md" --->
-
-# Index
 
 <ul>
 
@@ -15,5 +13,5 @@ title: Index
   <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
   </li>
   {% endfor %}
-  
+
 </ul>
