@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: kadastrova-mapa
-title: Мапа сайту
+title: Кадастрова мапа
 ---
 
 Опис <span id="a1">[\[1\]](#f1)</span>.
