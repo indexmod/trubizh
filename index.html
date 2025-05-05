@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>СТ «Трубіж»</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      scroll-behavior: smooth;
+      background: #f9f9f9;
+      color: #222;
+    }
+    header, nav, section {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem 1rem;
+    }
+    nav {
+      position: sticky;
+      top: 0;
+      background: #fff;
+      padding: 1rem;
+      border-bottom: 1px solid #eee;
+      z-index: 100;
+    }
+    nav a {
+      margin-right: 1rem;
+      text-decoration: none;
+      color: #444;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f0f0f0;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="#welcome">Головна</a>
+    <a href="#about">Про нас</a>
+    <a href="#map">Кадастрова мапа</a>
+    <a href="#faq">FAQ</a>
+    <a href="#owners">Власники</a>
+    <a href="#station">Заворичі</a>
+    <a href="#contacts">Контакти</a>
+  </nav>
+
+  <section id="welcome">
+    <h1>СТ «Трубiж»</h1>
+    <img src="/images/pine.png" alt="Pine" />
+    <p>СТ «Трубiж» — територія в адміністративних межах Заворіцької сільради біля села Заворичі у Броварському районі Київської області. За 40 км від Броварів, за 70 км від Києва. Розташоване в 1.5 км від станції Заворичі, між річками Гниздна та Трубіж.</p>
+  </section>
+
+  <section id="about">
+    <h2>Про товариство</h2>
+    <img src="/images/zavorichi-station.jpg" alt="Станція Заворичі" />
+    <p><strong>Станцiя Заворичi</strong></p>
+  </section>
+
+  <section id="map">
+    <h2>Кадастрова мапа</h2>
+    <img src="/images/kadastrova-mapa.png" alt="Кадастрова мапа" />
+  </section>
+
+  <section id="faq">
+    <h2>Питання → відповідь</h2>
+    <p><strong>В Бахчисараї фельд'єґер зумів одягнути ящірці жовтий капюшон?</strong><br>
+    Десь чув, що той фраєр привіз їхньому царю грильяж та класну шубу з пір'я ґави!</p>
+    <p><strong>У ґазди є ж бо гевеї, які шиють прості килими, наче хащі фацелій?</strong><br>
+    Грішний джиґіт, що хотів у Францію, позбувався цієї думки з'їдаючи трюфель.</p>
+  </section>
+
+  <section id="owners">
+    <h2>Власники</h2>
+    <table>
+      <tr><th>Дiлянка</th><th>Им'я</th></tr>
+      <tr><td>1</td><td>Баханченко Димитрій Сергийович</td></tr>
+      <tr><td>2</td><td>Білоконь Вікторія Василівна</td></tr>
+      <tr><td>3</td><td>Василенко Олена Сергіївна</td></tr>
+      <tr><td>4</td><td>Васін Антон Олегович</td></tr>
+      <tr><td>5</td><td>Васін Олег Юрійович</td></tr>
+      <tr><td>6</td><td>Величко Сергій Павлович</td></tr>
+      <tr><td>7</td><td>Дейніченко Андрій Юрійович</td></tr>
+      <tr><td>8</td><td>Дейніченко Людмила Степанівна</td></tr>
+      <tr><td>9</td><td>Демидов Денис Олександрович</td></tr>
+      <tr><td>10</td><td>Жеребцов Сергій Вікторович</td></tr>
+      <tr><td>11</td><td>Жолобів Сергий Леонідович</td></tr>
+      <tr><td>12</td><td>Затеха Сергій Михайлович</td></tr>
+      <tr><td>13</td><td>Лікоть Андрій Васильович</td></tr>
+      <tr><td>14</td><td>Лікоть Таїсія Захарівна</td></tr>
+      <tr><td>15</td><td>Лопа Сергій Володимирович</td></tr>
+      <tr><td>16</td><td>Сухорукова Олександра Геннадіївна</td></tr>
+    </table>
+  </section>
+
+  <section id="station">
+    <h2>Розклад електричок</h2>
+    <table>
+      <tr><th>До</th><th>Заворичi</th><th>Дарниця</th><th>Днi</th></tr>
+      <tr><td>Святошин</td><td>04:22</td><td>05:38</td><td>Щоден.</td></tr>
+      <tr><td>Дарниця</td><td>05:10</td><td>06:15</td><td></td></tr>
+      <tr><td>Kиїв-Волинський</td><td>05:36</td><td>06:39</td><td>Щоден.</td></tr>
+      <!-- ... залишок розкладу при потребі ... -->
+    </table>
+  </section>
+
+  <section id="contacts">
+    <h2>Контакти</h2>
+    <img src="http://cdn.skim.gs/image/upload/v1456339568/msi/attractive-man-closed-smile_zdirzw.jpg" alt="Андрій" />
+    <p><strong>Андрій, дiзайнер та адмiн сайту</strong></p>
+    <p>Email: <a href="mailto:deinichenko.a@gmail.com">deinichenko.a@gmail.com</a></p>
+    <p>Телефон: +38 (044) 547-02-07</p>
+    <p><strong>Про сайт:</strong> <a href="http://www.trubizh.ga">www.trubizh.ga</a> — тимчасова адреса сайту майбутнього садівничого товариства «Трубiж»</p>
+  </section>
+
+</body>
+</html>
